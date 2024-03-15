@@ -1,0 +1,7 @@
+Alexander BAKALOV 21105567
+Alexander DIMANACHKI 211212989
+
+Voici notre projet pour l'UE de "Introduction à la Programation objet" de Sorbonne Université.
+Ce projet est ecrit en Java, et permet de lancer une simulation dans laquelle un Agent se deplace dans une grille contenant des joyaux ou des gardiens.
+
+Pour accéder à la documentation qui contient les détails des classes fournies par les enseignants, il suffit d'accéder à l'un des fichiers html (index.html pour la page d'Accueil)
